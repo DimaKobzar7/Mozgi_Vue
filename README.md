@@ -1,14 +1,10 @@
-# vue-project
+# Mozgi_Vue
 
-This template should help get you started developing with Vue 3 in Vite.
+[Preview](https://dimakobzar7.github.io/mozgi_Vue/)
 
-## Recommended IDE Setup
+[Design](https://www.figma.com/file/lLlbSzUmjIrUjBWNqfNtpw/mozgi?t=ybFhHz5qNPh1QXRz-1)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Technology stack: Vue.js, JavaScript, CSS, SCSS
 
 ## Project Setup
 
