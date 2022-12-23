@@ -4,7 +4,9 @@
 
 [Design](https://www.figma.com/file/lLlbSzUmjIrUjBWNqfNtpw/mozgi?t=ybFhHz5qNPh1QXRz-1)
 
-Technology stack: Vue.js, JavaScript, CSS, SCSS
+Technology stack: Vue.js, Vue Router, JavaScript, CSS, SCSS
+
+Project features: many different animations and page transition animation.
 
 ## Project Setup
 
